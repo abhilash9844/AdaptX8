@@ -1,4 +1,11 @@
 """
+This system was developed through an iterative AI-assisted approach, where we built and refined over 10 prototypes
+and invested 15+ hours in rigorous debugging, system design, and optimization to transform AI-generated outputs
+into a reliable, production-ready solution.
+
+SOURCE-claude ai,geeksforgeeks.
+
+
 AdaptX - Resource Optimization & Efficiency Prediction
 =======================================================
 Day/Night Theme System + Fixed Analysis Background
